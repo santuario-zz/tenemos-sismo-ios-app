@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>97044E1E-BCF0-4447-AA71-E64689E8FE87</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TenemosSismoApp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1BCE2E5B-D201-44D3-ADF9-32C0C6945C8A</key>
+		<string>https://github.com/tenemos-sismo/tenemos-sismo-ios-app.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TenemosSismoApp/TenemosSismoApp.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1BCE2E5B-D201-44D3-ADF9-32C0C6945C8A</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/tenemos-sismo/tenemos-sismo-ios-app.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1BCE2E5B-D201-44D3-ADF9-32C0C6945C8A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1BCE2E5B-D201-44D3-ADF9-32C0C6945C8A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>tenemos-sismo-ios-app</string>
+		</dict>
+	</array>
+</dict>
+</plist>
